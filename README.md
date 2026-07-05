@@ -1,25 +1,27 @@
-**Mobile Banking Application: Financial & Risk Analysis**
+# Mobile Banking Application: Financial & Risk Analysis Case Study
 
-**Project Overview**
-This repository contains a comprehensive financial analysis and risk assessment for the development of a mobile banking application. The project focused on balancing mandatory regulatory compliance with financial viability.
+## Project Overview
+This project involves managing the lifecycle of a high-security mobile banking application. The primary goal was to enhance customer convenience while reducing operational costs through core features like bill pay, fund transfers, and real-time balance viewing.
 
-**Key Project Deliverables**
-  Detailed Financial Report: Analysis of ROI, CBR, EAC, and ETC.
-  Risk Mitigation Strategy: EMV analysis comparing compliance vs. non-compliance.
-  Schedule Validation: PERT (Three-Point Estimation) used to verify a 14-month delivery timeline.
+## Key Project Deliverables
+* **Financial Analysis:** Comprehensive report covering ROI, CBR, EAC, and ETC.
+* **Risk Management:** Expected Monetary Value (EMV) analysis comparing regulatory compliance vs. non-compliance.
+* **Schedule Validation:** PERT (Three-Point Estimation) used to verify a 14-month delivery timeline.
 
-**Financial Performance Summary**
-Metric	                Original Baseline	     Revised (Actual)
-Total Budget	          $500,0003	             $600,000
-Project Duration	      12 Months5	           14 Months
-2-Year ROI	            25%3	                 -20%
-Cost-Benefit Ratio	    1.252	                 0.83
+## Financial Performance Summary
+| Metric | Original Baseline | Revised (Actual) |
+| :--- | :--- | :--- |
+| **Total Budget** | $500,000 | $600,000 |
+| **Project Duration** | 12 Months | 14 Months |
+| **2-Year ROI** | 25% | -20% |
+| **Cost-Benefit Ratio** | 1.25 | 0.83 |
 
-**Strategic Impact & Insights**
-Risk Reduction: An EMV analysis revealed that without the new security features, the bank faced a $72,000 risk exposure. By investing an additional $100,000, that risk was reduced to just $300
-Schedule Reliability: Using the PERT formula (O + 4M + P) / 6, I validated that the 8-month development phase was realistic and achievable.
-Break-even Analysis: While the 2-year ROI is negative, the project is projected to break even at approximately 3.6 years from initiation.
+## Strategic Justification
+Despite the short-term negative ROI, the project was continued based on:
+1. **Regulatory Compliance:** Essential for legal operation.
+2. **Risk Mitigation:** Reducing threat probability from 90% to 5%.
+3. **Long-Term Trust:** Building a secure foundation for future digital adoption.
 
-**Recommendations for Recovery**
-Revenue Growth: Introduce tiered service plans or fintech partnerships.
-Efficiency: Accelerate digital adoption to increase the current $50,000/year operational savings.
+## Methodology Applied
+* **PERT Formula:** `(O + 4M + P) / 6` resulting in a validated 8-month development phase.
+* **EAC Formula:** `AC + ETC` ($350,000 + $250,000) confirming a $600,000 total spend.
