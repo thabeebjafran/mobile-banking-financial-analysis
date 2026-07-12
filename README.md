@@ -36,6 +36,7 @@ and the investment protects long-term customer trust.
 | `case-study-brief.pdf` | Original project case study and baseline assumptions |
 | `calculations-worksheet.pdf` | Step-by-step EAC, ETC, and EMV calculations with formulas |
 | `financial-analysis-report.pdf` | Full financial analysis: EAC/ETC, EMV, PERT, ROI, CBR, variance analysis, and recommendations |
+| `financial-analysis-presentation.pptx` | 7-slide visual summary of key findings and recommendations |
 
 ## Author
 
