@@ -1,27 +1,42 @@
-# Mobile Banking Application: Financial & Risk Analysis Case Study
+# Mobile Banking Application – Financial Analysis
 
-## Project Overview
-This project involves managing the lifecycle of a high-security mobile banking application. The primary goal was to enhance customer convenience while reducing operational costs through core features like bill pay, fund transfers, and real-time balance viewing.
+Financial viability and risk analysis for a mobile banking app project, evaluating the impact of a
+regulatory-driven scope change on cost, schedule, and return on investment.
 
-## Key Project Deliverables
-* **Financial Analysis:** Comprehensive report covering ROI, CBR, EAC, and ETC.
-* **Risk Management:** Expected Monetary Value (EMV) analysis comparing regulatory compliance vs. non-compliance.
-* **Schedule Validation:** PERT (Three-Point Estimation) used to verify a 14-month delivery timeline.
+## Project Summary
 
-## Financial Performance Summary
-| Metric | Original Baseline | Revised (Actual) |
-| :--- | :--- | :--- |
-| **Total Budget** | $500,000 | $600,000 |
-| **Project Duration** | 12 Months | 14 Months |
-| **2-Year ROI** | 25% | -20% |
-| **Cost-Benefit Ratio** | 1.25 | 0.83 |
+A $500K, 12-month mobile banking app project required an unplanned scope change six months in —
+new regulatory requirements mandated additional security features. This analysis evaluates whether
+the change was financially justified and what it did to the project's ROI.
 
-## Strategic Justification
-Despite the short-term negative ROI, the project was continued based on:
-1. **Regulatory Compliance:** Essential for legal operation.
-2. **Risk Mitigation:** Reducing threat probability from 90% to 5%.
-3. **Long-Term Trust:** Building a secure foundation for future digital adoption.
+**Key findings:**
+- Total cost increased from $500K → $600K (+20%); timeline extended from 12 → 14 months
+- Project ROI shifted from a targeted **+25%** to a revised **-20%**
+- Cost-Benefit Ratio dropped from 1.25 to **0.83**
+- Expected Monetary Value (EMV) of the compliance risk dropped from **-$72,000** (without the
+  feature) to **-$300** (with it) — a 240x reduction in risk exposure
+- PERT three-point estimation validated the revised 8-month development timeline
 
-## Methodology Applied
-* **PERT Formula:** `(O + 4M + P) / 6` resulting in a validated 8-month development phase.
-* **EAC Formula:** `AC + ETC` ($350,000 + $250,000) confirming a $600,000 total spend.
+**Recommendation:** Proceed with the scope change. Despite the negative short-term ROI, the EMV
+analysis shows the security feature reduces regulatory and financial risk exposure by a wide margin,
+and the investment protects long-term customer trust.
+
+## Methods Applied
+
+- **EAC / ETC** – Estimate at Completion / Estimate to Complete
+- **EMV** – Expected Monetary Value (risk-adjusted decision analysis)
+- **PERT** – Three-point schedule estimation
+- **ROI / CBR** – Return on Investment and Cost-Benefit Ratio analysis
+- **Variance & Cash Flow Analysis** – baseline vs. revised comparison, break-even timeline
+
+## Files
+
+| File | Description |
+|---|---|
+| `case-study-brief.pdf` | Original project case study and baseline assumptions |
+| `calculations-worksheet.pdf` | Step-by-step EAC, ETC, and EMV calculations with formulas |
+| `financial-analysis-report.pdf` | Full financial analysis: EAC/ETC, EMV, PERT, ROI, CBR, variance analysis, and recommendations |
+
+## Author
+
+Thabeeb Jafran — [LinkedIn](https://linkedin.com/in/thabeebjafran)
